@@ -1,4 +1,4 @@
-# DevOps-Beginners-to-Advanced-with--projects
+# DevOps-Beginners-to-Advanced-with-projects
 
 A comprehensive repository documenting my learning journey from the Udemy course  DevOps Beginners to Advanced with Projects.' Each section is organized into folders with committed notes, examples, and hands-on exercises.
 
@@ -34,7 +34,7 @@ As I progress through the course, I will regularly commit my notes and implement
 ## 🌟 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/basharjehadi/DevOps-Beginners-to-Advanced-with-projects.git
    ```
 2. Nvigate to the folder of the section you're interested in.
 3. Explore the notes, scripts, and examples.
@@ -45,7 +45,7 @@ This repository is a personal learning project, but I welcome suggestions and fe
 ## 📬 Contact
 If you have any questions or suggestions, reach out to me:
 - **Email**: basharjehadi@gmail.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/md-abul-bashar-jehadi/)
+- **LinkedIn**: [My Linkedin Profile](https://linkedin.com/in/md-abul-bashar-jehadi/)
 
 ## 🎓 Acknowledgments
 Special thanks to the instructor of this Udemy course for providing comprehensive insights into DevOps practices.
