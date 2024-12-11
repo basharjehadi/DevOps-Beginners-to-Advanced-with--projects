@@ -51,8 +51,21 @@ w
 id
 ```
 ## 150. First Build Job
+- we build job cloning github repo 
+```sh
+https://github.com/hkhcoder/vprofile-project.git
+```
+- we experiment with maven and jdk version.
+- we run few failed jobs and few build jobs.
+
+![First Build Job](images/First-Build-job.png)
+
 
 ## 151. Plugins, Versioning & more
+```sh
+mkdir -p versions
+cp target/vprofile-v2.war versions/vpro$BUILD_ID.war
+```
 
 ## 152. Disk Space Issue
 
